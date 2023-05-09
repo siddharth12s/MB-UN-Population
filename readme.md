@@ -1,4 +1,4 @@
-# Company Master Analysis - Summary
+# UN Population Analysis - Summary
 
 In this project, we had to use Python and it's matplotlib library to visualise the dataset for some given queries.
 We were provided with raw csv data files which consisted of population data of the world through which we extracted our required data.
@@ -12,7 +12,7 @@ IDE:- Visual Studio Code
 ##  Files and folders
 Virtual Environment:- venv
 CSV files
-Executable Code file:- company_master.py
+Executable Code file:- un_population.py
 
 
 ## Libraries and their Installion Command
